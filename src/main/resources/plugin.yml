@@ -1,0 +1,5 @@
+name: OnlyProxyJoin
+version: 1.0-BETA
+author: ytendx
+description: Blocks Players who are not joining from the own Proxy.
+main: de.ytendx.opj.OnlyProxyJoin
